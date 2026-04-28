@@ -1,2 +1,2 @@
-# Visium-3-on-sandfly-midgut
+# visium-3-midgut
 All code associated with my ongoing Visium 3' spatial transcriptomics project.
